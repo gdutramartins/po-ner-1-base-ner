@@ -2,7 +2,7 @@
 
 
 
-#### **Projeto Final de Curso - Entrega 1:** Named Entity Recognition com BERT para Reconhecimento de Entidades nas Politicas Operacionais do BNDES
+### Projeto Final de Curso - Entrega 1: Named Entity Recognition com BERT para Reconhecimento de Entidades nas Politicas Operacionais do BNDES
 
 
 
