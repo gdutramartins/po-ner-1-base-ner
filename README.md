@@ -1,8 +1,8 @@
-## **Pós Graduação PUC/RJ BI-Master - Setembro de 2021**
+## Pós Graduação PUC/RJ BI-Master - Setembro de 2021
 
 
 
-#### **Projeto Final de Curso - Entrega 1:** Named Entity Recognition com BERT para Reconhecimento de Entidades nas Politicas Operacionais do BNDES
+### Projeto Final de Curso - Entrega 1: Named Entity Recognition com BERT para Reconhecimento de Entidades nas Politicas Operacionais do BNDES
 
 
 
