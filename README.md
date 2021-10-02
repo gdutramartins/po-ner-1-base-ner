@@ -1,8 +1,10 @@
 ## Pós Graduação PUC/RJ BI-Master - Setembro de 2021
 
+### Named Entity Recognition com BERT para Reconhecimento de Entidades nas Politicas Operacionais do BNDES
 
 
-### Projeto Final de Curso - Entrega 1: Named Entity Recognition com BERT para Reconhecimento de Entidades nas Politicas Operacionais do BNDES
+
+#### Projeto Final de Curso - Entrega 1: Base NER
 
 
 
@@ -17,13 +19,13 @@ O objetivo de nossa primeira análise é aprender sobre o uso de modelos BERT em
 
 
 
-Temos como objetivo criar um artigo na plataforma [Medium](https://medium.com/) a cada fase finalizada do projeto.
+Temos como objetivo criar um artigo na plataforma [Medium](https://medium.com/@gdutramartins) a cada fase finalizada do projeto.
 
 
 
 #### Links
 
-* Artigo no medium
+* [Artigo Publicado no Medium.com](https://medium.com/@gdutramartins/named-entity-recognition-com-bert-para-reconhecimento-de-entidades-nas-politicas-operacionais-do-16439aa67a3b)
 * [Exemplo NER Hugging Face](https://huggingface.co/transformers/master/custom_datasets.html#token-classification-with-w-nut-emerging-entities)
 * [Exemplo Alinhamento de Tokens](https://www.lighttag.io/blog/sequence-labeling-with-transformers/example)
 
